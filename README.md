@@ -3,6 +3,7 @@
 This repository contains SQL scripts for setting up a data warehouse, along with an ETL pipeline implementation and Power BI reporting.
 
 📂 Project Overview
+
 This project involves the creation of a dimensional data warehouse with fact and dimension tables. The setup includes:
 
 Schema creation (tables, sequences, primary keys)
